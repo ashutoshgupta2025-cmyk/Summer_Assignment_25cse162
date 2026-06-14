@@ -7,4 +7,4 @@ This repository contains my daily programming assignments for CSE 162.
 * **Day_02**: Control Structures & Loops
 * **Day_03**: Functions & Arrays
 * **Day_04**: Pointers & Advanced Topics
-*
+
