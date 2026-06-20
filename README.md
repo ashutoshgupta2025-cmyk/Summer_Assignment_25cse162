@@ -1,4 +1,4 @@
-7# Summer Assignment - CSE 162
+# Summer Assignment - CSE 162
 
 This repository contains my daily programming assignments for CSE 162.
 
