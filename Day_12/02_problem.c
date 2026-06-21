@@ -26,3 +26,5 @@ int main()
     armstrong(num);
 
     return 0;
+}
+
