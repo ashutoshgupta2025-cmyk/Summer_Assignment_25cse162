@@ -24,5 +24,6 @@ This repository contains my daily programming assignments for CSE 162.
 * **Day_19**
 * **Day_20**
 * **Day_21**
+* **Day_22**
 
 
