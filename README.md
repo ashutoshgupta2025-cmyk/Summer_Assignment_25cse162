@@ -44,7 +44,6 @@ This repository is a reflection of consistent daily practice and serves as:
 B.Tech Computer Science Engineering, GL Bajaj Group of Institutions
 
 - GitHub: [@ashutoshgupta16966-creator](https://github.com/ashutoshgupta16966-creator)
-- LinkedIn: *(add your profile link)*
 
 ---
 
