@@ -1,37 +1,53 @@
-# Summer Assignment - CSE 162
+# Summer Assignment - CSE 162 🖥️
 
-This repository contains my daily programming assignments for CSE 162.
+A 30-day journey of learning and practicing **C Programming**, built as part of my second-year B.Tech Computer Science coursework. Each folder contains the problems solved codes written on that specific day, progressing from basic syntax to more advanced concepts.
 
-## Contents
-* **Day_01**
-* **Day_02**
-* **Day_03**
-* **Day_04**
-* **Day_05**
-* **Day_06**
-* **Day_07**
-* **Day_08**
-* **Day_09**
-* **Day_10**
-* **Day_11**
-* **Day_12**
-* **Day_13**
-* **Day_14**
-* **Day_15**
-* **Day_16**
-* **Day_17**
-* **Day_18**
-* **Day_19**
-* **Day_20**
-* **Day_21**
-* **Day_22**
-* **Day_23**
-* **Day_24**
-* **Day_25**
-* **Day_26**
-* **Day_27**
-* **Day_28**
-* **Day_29**
-* **Day_30**
+![C](https://img.shields.io/badge/Language-C-blue.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+![Days](https://img.shields.io/badge/Days-30-orange.svg)
+
+---
+
+## 📌 About
+
+This repository documents my daily practice in C programming over a 30-day period.
+---
+
+## 📂 Repository Structure
+
+```
+Summer_Assignment_25cse162/
+├── Day_01/
+├── Day_02/
+├── Day_03/
+├── ...
+├── Day_30/
+└── README.md
+```
+
+Each `Day_XX` folder contains the `.c` source file(s).
+
+---
+
+## 🎯 Purpose
+
+This repository is a reflection of consistent daily practice and serves as:
+- A personal record of my C programming journey
+- A quick reference for revisiting fundamental concepts
+- A portfolio piece demonstrating discipline and problem-solving skills
+
+---
+
+## 👤 Author
+
+**Ashutosh Gupta**
+B.Tech Computer Science Engineering, GL Bajaj Group of Institutions
+
+- GitHub: [@ashutoshgupta16966-creator](https://github.com/ashutoshgupta16966-creator)
+- LinkedIn: *(add your profile link)*
+
+---
+
+⭐ If you found this useful or are on a similar learning journey, feel free to star the repo!
 
 
